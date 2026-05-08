@@ -1,109 +1,88 @@
-```md
-![Welcome Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+I'm+Amulya!;Future+Data+Analyst+%7C+Developer;Building+Skills+%2B+Projects+Daily)
+![Welcome Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!.;Let's+build+something+great+together!)
+# 💫  A Glimpse Into My Digital Universe! 🌌
+<p align="center">
+  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+</p>
 
-# 👋 Hey, I'm Amulya (Albi)
 
-### 🚀 Future Data Analyst | Developer in Progress
 
-💡 I’m on a mission to become **internship-ready before my BCA journey peaks**  
-📊 Interested in **Data Analytics + Development**  
-🔥 Focused on **building projects, not just watching tutorials**
 
----
+## 👩‍🎓 About Me
 
-## 💻 Skills & Superpowers
+Hey there! I'm Amulya 🎧 — passionate about **tech, creativity, and continuous growth**. 🚀
 
-### 🛠️ What I Know
-- 🐍 Python (Basics + Hands-on)
-- 🌐 HTML (Core Concepts)
+💻 I love turning ideas into reality through code, exploring the world of development & data analytics, and constantly learning along the way.
 
-### 🧠 Currently Leveling Up
-- 🎨 CSS & JavaScript  
-- 🧩 Data Structures & Algorithms  
-- ⚙️ Git & GitHub  
+🎶 To me, coding is just like music — when creativity, logic, and rhythm come together, something amazing is created. That’s the energy I bring into everything I build ✨
+
+
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 My Tech Stack
 
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+### 💻 Front-End Development
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-### 🎨 Frontend Development
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+### 🖥 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-### ⚙️ Tools & Environment
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### 🛠 Tools & Frameworks
+<p align="center">
 
----
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-## 🚀 Featured Projects
-
-### 🧾 Expense Tracker (Python)
-👉 Tracks daily expenses and stores data  
-👉 Helps understand spending habits  
-
-### ✅ To-Do Web App
-👉 Add, delete, manage tasks  
-👉 Built using HTML, CSS, JS  
-
-### 🎓 Student Report System
-👉 Manages student marks and results  
-👉 Python-based mini system  
-
-🚧 *More projects coming soon...*
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Exploring
 
+* ⚛️ React.js
+* 🤖 AI & Analytics
+* 🧩 DSA 
+* 🚀 Building Projects ✨
+
+
+
+---
+## 📊 GitHub Stats & Activity
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albi-10git&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi-10git&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albi-10git&theme=radical)
+✨ **Here's a snapshot of my GitHub journey!** ✨
+
+![Amulya GitHub Stats](https://github-readme-stats.vercel.app/api?username=amulya-komare&show_icons=true&theme=radical&hide=stars&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amulya-komare&layout=compact&theme=radical)
+
+🌟 **My Streaks and Contributions** 🌟  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amulya-komare&theme=radical)
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Let's Connect 
+<div align="center">
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/amulya-komare-579955369" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
 
-  <a href="mailto:amulyakomare@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_.amulyaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/amulya-komare-579955369)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amulya-komare)
 
-  <a href="https://github.com/Albi-10git" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
----
+</div>
 
-## 🌟 My Roadmap
 
-✔️ Web Development Basics  
-✔️ Start DSA Journey  
-⬜ Build 3–5 Strong Projects  
-⬜ First Internship  
-⬜ Data Analytics Mastery  
+✨ Learning, building, and evolving — one step at a time 🌌
 
----
-
-## 🎶 Fun Fact
-Coding = Music 🎤  
-Once you find the rhythm, everything flows.
-
----
-
-✨ *Consistency is my real superpower.*
-```
+  
 
